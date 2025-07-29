@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div style={{ textAlign: 'center', maxWidth: '800px', margin: '0 auto' }}>
       <h1 style={{ fontSize: '2.5rem', color: '#333', marginBottom: '1rem' }}>
-        Welcome to Doctor App
+        Welcome to Medicare
       </h1>
       
       <p style={{ fontSize: '1.2rem', color: '#666', marginBottom: '2rem' }}>
